@@ -1,5 +1,8 @@
 BF-FFT-Demo
 ===========
+
+![spectrograph screenshot](https://github.com/accuminium/BF-FFT-Demo/raw/master/img/screen-spectrograph.png)
+
 This small GUI application (based on the [Qt 4.7 Framework](http://qt-project.org)) was used to demonstrate the [FFT algorithm](http://en.wikipedia.org/wiki/Fft) implemented on an [ADSP-BF532 DSP](http://en.wikipedia.org/wiki/Blackfin) in a [student project at ETH Zurich (link in German)](http://www.isi.ee.ethz.ch/teaching/pps/prac_dsp).
 The assembly source code used for the algorithm on the DSP is available in another repository.
 
